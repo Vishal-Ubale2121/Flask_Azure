@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'vishalportfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_084CFDA807C54FBAAA7C40EED3CCB34B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE93039DEBF64F5B9D95F548838FB8E9 }}
